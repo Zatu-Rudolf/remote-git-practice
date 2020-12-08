@@ -1,0 +1,29 @@
+ h1 {font-size: 60px;
+color:black;
+ }
+
+ label {font-size: 30px;
+color: blue-black;
+ }
+#radio {
+	height: 35px;
+	width:30px; 
+	  border-radius: 30px;
+	}
+
+input {
+	height: 35px;
+	width: 25%;
+	  border-radius: 30px;
+	  font-color:black;
+	  border-style: box
+}
+
+body {
+	background-color: lightgrey;
+	background-image: url(kk.png);
+background-position:center;
+    background-repeat:repeat;
+     
+}
+
